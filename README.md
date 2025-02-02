@@ -1,69 +1,69 @@
-**📞 Contact App**</br>
+**📞 Contact App**</br></br>
 A user-friendly contact management application built with React.js, MySQL, and JavaScript to simplify contact storage, updates, and deletion.
-</br>
+</br></br>
 **🚀 Features**
 </br>
-✔️ Add Contacts – Save contact details with ease.
-✔️ Update Contacts – Modify existing contact information.
-✔️ Delete Contacts – Remove contacts you no longer need.
-✔️ Search Contacts – Quickly find saved contacts.
-✔️ Responsive UI – Designed for mobile and desktop use.
+✔️ Add Contacts – Save contact details with ease.</br>
+✔️ Update Contacts – Modify existing contact information.</br>
+✔️ Delete Contacts – Remove contacts you no longer need.</br>
+✔️ Search Contacts – Quickly find saved contacts.</br>
+✔️ Responsive UI – Designed for mobile and desktop use.</br></br>
 
-**🛠️ Tech Stack**
-Frontend: HTML, CSS, JavaScript, React.js
-Backend: Node.js, Express.js
-Database: MySQL
-State Management: React Hooks (useState, useEffect)
-**📂 Installation & Setup**
-Follow these steps to set up the project on your local machine:
+**🛠️ Tech Stack**</br>
+Frontend: HTML, CSS, JavaScript, React.js</br>
+Backend: Node.js, Express.js</br>
+Database: MySQL</br>
+State Management: React Hooks (useState, useEffect)</br>
+**📂 Installation & Setup**</br>
+Follow these steps to set up the project on your local machine:</br></br>
 
-**1️⃣ Clone the Repository**
-sh
-Copy
-Edit
-git clone https://github.com/your-username/Contact-App.git
-cd Contact-Ap
+**1️⃣ Clone the Repository**</br>
+sh</br>
+Copy</br>
+Edit</br>
+git clone https://github.com/your-username/Contact-App.git</br>
+cd Contact-Ap</br></br>
 
-**2️⃣ Install Dependencies**
-Run the following command in the project folder:
+**2️⃣ Install Dependencies**</br>
+Run the following command in the project folder:</br>
 
-sh
-Copy
-Edit
-npm install
+sh</br>
+Copy</br>
+Edit</br>
+npm install</br></br>
 
-**3️⃣ Set Up the Database**
-Install MySQL and create a database.
-Run the provided SQL script to create necessary tables.
+**3️⃣ Set Up the Database**</br>
+Install MySQL and create a database.</br>
+Run the provided SQL script to create necessary tables.</br></br>
 
-**4️⃣ Start the Backend Server**
-sh
-Copy
-Edit
-node server.js
+**4️⃣ Start the Backend Server**</br>
+sh</br>
+Copy</br>
+Edit</br>
+node server.js</br></br>
 
-**5️⃣ Start the React Frontend**
-sh
-Copy
-Edit
-npm start
-Your app should now be running on http://localhost:3000/ 🚀
+**5️⃣ Start the React Frontend**</br>
+sh</br>
+Copy</br>
+Edit</br>
+npm start</br>
+Your app should now be running on http://localhost:3000/ 🚀</br></br>
 
-**💡 Future Enhancements**
-🔹 Add user authentication for better security.
-🔹 Implement cloud storage for contacts.
-🔹 Add import/export contacts feature.
+**💡 Future Enhancements**</br>
+🔹 Add user authentication for better security.</br>
+🔹 Implement cloud storage for contacts.</br>
+🔹 Add import/export contacts feature.</br></br>
 
-**🤝 Contributing**
-Want to contribute? Follow these steps:
+**🤝 Contributing**</br>
+Want to contribute? Follow these steps:</br>
 
-Fork the repository.
-Create a new branch: git checkout -b feature-name
-Commit changes: git commit -m "Added new feature"
-Push to GitHub: git push origin feature-name
-Open a Pull Request.
+Fork the repository.</br>
+Create a new branch: git checkout -b feature-name</br>
+Commit changes: git commit -m "Added new feature"</br>
+Push to GitHub: git push origin feature-name</br>
+Open a Pull Request.</br></br>
 
-💬 Feel free to reach out for any suggestions or feedback!
-📩 Contact
+💬 Feel free to reach out for any suggestions or feedback!</br>
+📩 Contact</br>
 ashif9878@gmail.com
 
