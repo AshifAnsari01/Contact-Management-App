@@ -1,7 +1,8 @@
-**📞 Contact App**
+**📞 Contact App**</br>
 A user-friendly contact management application built with React.js, MySQL, and JavaScript to simplify contact storage, updates, and deletion.
-
+</br>
 **🚀 Features**
+</br>
 ✔️ Add Contacts – Save contact details with ease.
 ✔️ Update Contacts – Modify existing contact information.
 ✔️ Delete Contacts – Remove contacts you no longer need.
